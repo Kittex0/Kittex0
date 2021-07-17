@@ -2,7 +2,6 @@
 - I am currently learning python
 - If you want to contact me then just email me at: kittex0@protonmail.com
 - My Stack Overflow: https://stackoverflow.com/users/16298977/kittex0
-- And my YouTube channel: https://www.youtube.com/channel/UC4jSwauuO4fBdorRi1Vkn6g
 
 <!---
 Kittex0/Kittex0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
